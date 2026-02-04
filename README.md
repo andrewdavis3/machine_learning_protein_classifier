@@ -103,7 +103,7 @@ On the demonstration dataset:
 
 ```
 ============================================================
-Protein Sequence Classifier for Bioinformatics
+Protein Sequence Classifier
 ============================================================
 
 📊 Generating sample protein sequences...
